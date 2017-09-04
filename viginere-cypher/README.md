@@ -1,0 +1,1 @@
+# Viginere cypher implemented in C to have more deep understanding of loops and how arrays work in C.

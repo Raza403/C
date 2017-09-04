@@ -1,0 +1,1 @@
+# This is a dictionary which takes a word and check the spells.

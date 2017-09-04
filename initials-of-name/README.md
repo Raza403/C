@@ -1,0 +1,1 @@
+# Converts a name or string into Initials, all in uppercase.
